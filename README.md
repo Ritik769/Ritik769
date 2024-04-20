@@ -1,5 +1,5 @@
 <h2> Hi there 👋 </h2>
-<p>Im Ritik Im from india</p>
+<h3>Im Ritik Im from india</h3>
 
 - 🌱 I am Currently Learning **Java , Rust , C**
 
