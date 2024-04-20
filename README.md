@@ -1,4 +1,5 @@
 <h2> Hi there 👋 </h2>
+<p>Im Ritik Im from india</p>
 - 🌱 I’m currently learning ...
 - Java, Rust , C
 <h2>Languages🧃</h2>
